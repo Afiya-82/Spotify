@@ -25,12 +25,18 @@ A simple Spotify Clone built using HTML & CSS to mimic the UI of Spotify.
  -----
  
  📂 Project Structure
- 📁 spotify-clone/
-├── 📄 index.html
-├── 🎨 style.css
-└── 📁 assets/
-      ├── 🎵 images/
-      └── 🎶 icons/
+ 
+       📁 spotify-clone/
+ 
+       ├── 📄 index.html
+
+       ├── 🎨 style.css
+
+       └── 📁 assets/
+
+            ├── 🎵 images/
+      
+            └── 🎶 icons/
 
 ------
 
@@ -44,4 +50,4 @@ A simple Spotify Clone built using HTML & CSS to mimic the UI of Spotify.
 
 -----
 
-Made with ❤️ by [**Afiya Rani**]
+  Made with ❤️ by [**Afiya Rani**]
